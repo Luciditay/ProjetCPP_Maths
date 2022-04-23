@@ -1,0 +1,370 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "p6",
+					"childIndexes" : 
+					[
+						2,
+						6,
+						7,
+						8,
+						9,
+						11
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-p6-Debug-405b77a20c54b34976cf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "p6",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "p6/third-party/glpp-extended",
+					"childIndexes" : 
+					[
+						3,
+						4
+					],
+					"jsonFile" : "directory-p6.third-party.glpp-extended-Debug-c9cede4e23297af1c29f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "p6/third-party/glpp-extended",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "p6/third-party/glpp-extended/lib/glpp",
+					"jsonFile" : "directory-p6.third-party.glpp-extended.lib.glpp-Debug-816c3224429c4b6cf70c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "p6/third-party/glpp-extended/lib/glpp",
+					"targetIndexes" : 
+					[
+						2,
+						4
+					]
+				},
+				{
+					"build" : "p6/third-party/glpp-extended/lib/glm",
+					"childIndexes" : 
+					[
+						5
+					],
+					"jsonFile" : "directory-p6.third-party.glpp-extended.lib.glm-Debug-08924d39ae055f323811.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 1,
+					"source" : "p6/third-party/glpp-extended/lib/glm",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "p6/third-party/glpp-extended/lib/glm/glm",
+					"jsonFile" : "directory-p6.third-party.glpp-extended.lib.glm.glm-Debug-7a3b5a4bde8598a50c43.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 1,
+					"source" : "p6/third-party/glpp-extended/lib/glm/glm"
+				},
+				{
+					"build" : "p6/third-party/img",
+					"jsonFile" : "directory-p6.third-party.img-Debug-a824d30ac51db6baf3ef.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "p6/third-party/img",
+					"targetIndexes" : 
+					[
+						6,
+						9
+					]
+				},
+				{
+					"build" : "p6/third-party/op",
+					"jsonFile" : "directory-p6.third-party.op-Debug-6894fe3f4a15dee55fb2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "p6/third-party/op"
+				},
+				{
+					"build" : "p6/third-party/exe_path",
+					"jsonFile" : "directory-p6.third-party.exe_path-Debug-2ca1fb4301eecfb1c486.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "p6/third-party/exe_path",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "p6/third-party/glfw",
+					"childIndexes" : 
+					[
+						10
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-p6.third-party.glfw-Debug-3084f2402e8de2cb31a5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "p6/third-party/glfw"
+				},
+				{
+					"build" : "p6/third-party/glfw/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-p6.third-party.glfw.src-Debug-5ec61950190565f081fa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 2,
+					"source" : "p6/third-party/glfw/src",
+					"targetIndexes" : 
+					[
+						3,
+						11
+					]
+				},
+				{
+					"build" : "p6/third-party/imgui",
+					"jsonFile" : "directory-p6.third-party.imgui-Debug-ad828f25d1aea8d2744a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "p6/third-party/imgui",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						6,
+						7,
+						8,
+						11
+					],
+					"name" : "my-p6-project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4,
+						5
+					],
+					"name" : "glm",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9,
+						10
+					],
+					"name" : "GLFW",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 11,
+					"id" : "ImGui::@73dcce30f8f7afc42c7a",
+					"jsonFile" : "target-ImGui-Debug-e764f94d6421a06b74af.json",
+					"name" : "ImGui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "exe_path::@2801de9f1cd2f3686d9e",
+					"jsonFile" : "target-exe_path-Debug-e647b403b36ce52cf0db.json",
+					"name" : "exe_path",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "glad::@576123a86e4fc0b7e2df",
+					"jsonFile" : "target-glad-Debug-775515180abd82964e3c.json",
+					"name" : "glad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "glfw::@66c7204f1346f2199dd7",
+					"jsonFile" : "target-glfw-Debug-90a12a56582cd123f120.json",
+					"name" : "glfw",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "glpp::@576123a86e4fc0b7e2df",
+					"jsonFile" : "target-glpp-Debug-1ee508d1a2ff7cf6cab8.json",
+					"name" : "glpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "glpp-extended::@9d5162035ace960ece1a",
+					"jsonFile" : "target-glpp-extended-Debug-791e86c0e9f1dc755df6.json",
+					"name" : "glpp-extended",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "img::@ad7dc3a02c9ad3355eb9",
+					"jsonFile" : "target-img-Debug-0f216743344cbbd60731.json",
+					"name" : "img",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my-p6-project::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my-p6-project-Debug-1e16fb94aa9d861d8158.json",
+					"name" : "my-p6-project",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "p6::@0a92ab5c0cc386f175d5",
+					"jsonFile" : "target-p6-Debug-3643d5a66e6f6c7ac6b6.json",
+					"name" : "p6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "stb_image::@ad7dc3a02c9ad3355eb9",
+					"jsonFile" : "target-stb_image-Debug-e4308350bead7e7d249c.json",
+					"name" : "stb_image",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "uninstall::@32f376064662eb167b28",
+					"jsonFile" : "target-uninstall-Debug-7b50eafd80a013e47407.json",
+					"name" : "uninstall",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "update_mappings::@66c7204f1346f2199dd7",
+					"jsonFile" : "target-update_mappings-Debug-4609d0285f25ac3ea8f9.json",
+					"name" : "update_mappings",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/luciditay/Documents/IMAC2/S2/ProgProj/build",
+		"source" : "/home/luciditay/Documents/IMAC2/S2/ProgProj"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

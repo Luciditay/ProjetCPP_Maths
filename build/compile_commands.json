@@ -1,0 +1,307 @@
+[
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glm -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/op/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -g -std=gnu++17 -o CMakeFiles/my-p6-project.dir/src/boid.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/src/boid.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/src/boid.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glm -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/op/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -g -std=gnu++17 -o CMakeFiles/my-p6-project.dir/src/boidShape.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/src/boidShape.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/src/boidShape.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glm -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/op/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -g -std=gnu++17 -o CMakeFiles/my-p6-project.dir/src/main.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/src/main.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/src/main.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glm -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/op/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -g -std=gnu++17 -o CMakeFiles/p6.dir/src/Context.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/Context.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/Context.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glm -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/op/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -g -std=gnu++17 -o CMakeFiles/p6.dir/src/Shader.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/Shader.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/Shader.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glm -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/op/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -g -std=gnu++17 -o CMakeFiles/p6.dir/src/Canvas.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/Canvas.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/Canvas.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glm -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/op/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -g -std=gnu++17 -o CMakeFiles/p6.dir/src/Image.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/Image.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/Image.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glm -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/op/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -g -std=gnu++17 -o CMakeFiles/p6.dir/src/math.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/math.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/math.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glm -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/op/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -g -std=gnu++17 -o CMakeFiles/p6.dir/src/Transform2D.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/Transform2D.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/Transform2D.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glm -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/op/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -g -std=gnu++17 -o CMakeFiles/p6.dir/src/details/ImGuiWrapper.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/details/ImGuiWrapper.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/details/ImGuiWrapper.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glm -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/op/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -g -std=gnu++17 -o CMakeFiles/p6.dir/src/details/UniqueGlfwWindow.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/details/UniqueGlfwWindow.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/details/UniqueGlfwWindow.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glm -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/op/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -g -std=gnu++17 -o CMakeFiles/p6.dir/src/details/Time/Clock.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/details/Time/Clock.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/details/Time/Clock.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glm -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/op/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -g -std=gnu++17 -o CMakeFiles/p6.dir/src/details/Time/Clock_FixedTimestep.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/details/Time/Clock_FixedTimestep.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/details/Time/Clock_FixedTimestep.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glm -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/op/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -g -std=gnu++17 -o CMakeFiles/p6.dir/src/details/Time/Clock_Realtime.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/details/Time/Clock_Realtime.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/details/Time/Clock_Realtime.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glm -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/op/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -g -std=gnu++17 -o CMakeFiles/p6.dir/src/details/RectRenderer.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/details/RectRenderer.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/details/RectRenderer.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glm -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/op/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -g -std=gnu++17 -o CMakeFiles/p6.dir/src/details/TriangleRenderer.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/details/TriangleRenderer.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/details/TriangleRenderer.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glm -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/op/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -g -std=gnu++17 -o CMakeFiles/p6.dir/src/details/TextRenderer.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/details/TextRenderer.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/src/details/TextRenderer.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glpp-extended",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glm -g -std=gnu++17 -o CMakeFiles/glpp-extended.dir/src/Program.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/src/Program.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/src/Program.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glpp-extended",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glm -g -std=gnu++17 -o CMakeFiles/glpp-extended.dir/src/RenderTarget.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/src/RenderTarget.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/src/RenderTarget.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -g -o CMakeFiles/glad.dir/third-party/glad/src/glad.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/src/glad.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/src/glad.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DGLPP_SHOULD_CHECK_ERRORS -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -g -std=gnu++17 -o CMakeFiles/glpp.dir/src/glpp/check_errors.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src/glpp/check_errors.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src/glpp/check_errors.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DGLPP_SHOULD_CHECK_ERRORS -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -g -std=gnu++17 -o CMakeFiles/glpp.dir/src/glpp/Functions/Texture.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Texture.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Texture.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DGLPP_SHOULD_CHECK_ERRORS -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -g -std=gnu++17 -o CMakeFiles/glpp.dir/src/glpp/Functions/Program.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Program.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Program.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DGLPP_SHOULD_CHECK_ERRORS -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -g -std=gnu++17 -o CMakeFiles/glpp.dir/src/glpp/Functions/Framebuffer.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Framebuffer.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Framebuffer.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DGLPP_SHOULD_CHECK_ERRORS -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -g -std=gnu++17 -o CMakeFiles/glpp.dir/src/glpp/Functions/Miscellaneous.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Miscellaneous.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Miscellaneous.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DGLPP_SHOULD_CHECK_ERRORS -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/third-party/glad/include -g -std=gnu++17 -o CMakeFiles/glpp.dir/src/glpp/internal/assert_is_bound.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src/glpp/internal/assert_is_bound.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glpp-extended/lib/glpp/src/glpp/internal/assert_is_bound.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/img",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -g -o CMakeFiles/stb_image.dir/lib/stb_image/stb_image.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib/stb_image/stb_image.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib/stb_image/stb_image.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/img",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -g -o CMakeFiles/stb_image.dir/lib/stb_image/stb_image_write.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib/stb_image/stb_image_write.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib/stb_image/stb_image_write.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/img",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib -g -std=gnu++17 -o CMakeFiles/img.dir/src/Save.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/src/Save.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/src/Save.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/img",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/lib -g -std=gnu++17 -o CMakeFiles/img.dir/src/Load.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/src/Load.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/img/src/Load.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/exe_path",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/include -g -std=gnu++17 -o CMakeFiles/exe_path.dir/src/exe_path.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/src/exe_path.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/exe_path/src/exe_path.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/context.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/context.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/context.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/init.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/init.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/init.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/input.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/input.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/input.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/monitor.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/monitor.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/monitor.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/platform.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/platform.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/platform.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/vulkan.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/vulkan.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/vulkan.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/window.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/window.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/window.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/egl_context.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/egl_context.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/egl_context.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/osmesa_context.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/osmesa_context.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/osmesa_context.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/null_init.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/null_init.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/null_init.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/null_monitor.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/null_monitor.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/null_monitor.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/null_window.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/null_window.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/null_window.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/null_joystick.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/null_joystick.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/null_joystick.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/posix_module.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/posix_module.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/posix_module.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/posix_time.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/posix_time.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/posix_time.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/posix_thread.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/posix_thread.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/posix_thread.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/x11_init.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/x11_init.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/x11_init.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/x11_monitor.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/x11_monitor.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/x11_monitor.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/x11_window.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/x11_window.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/x11_window.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/xkb_unicode.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/xkb_unicode.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/xkb_unicode.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/glx_context.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/glx_context.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/glx_context.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -D_DEFAULT_SOURCE -D_GLFW_X11 -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src -I/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/glfw/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/linux_joystick.c.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/linux_joystick.c",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/src/linux_joystick.c"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/imgui",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -g -o CMakeFiles/ImGui.dir/imgui_demo.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/imgui_demo.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/imgui",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -g -o CMakeFiles/ImGui.dir/imgui_draw.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/imgui_draw.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/imgui",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -g -o CMakeFiles/ImGui.dir/imgui_tables.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/imgui_tables.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/imgui",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -g -o CMakeFiles/ImGui.dir/imgui_widgets.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/imgui_widgets.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/imgui",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -g -o CMakeFiles/ImGui.dir/imgui.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/imgui.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/imgui.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/imgui",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -g -o CMakeFiles/ImGui.dir/misc/cpp/imgui_stdlib.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/misc/cpp/imgui_stdlib.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/misc/cpp/imgui_stdlib.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/imgui",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -g -o CMakeFiles/ImGui.dir/backends/imgui_impl_glfw.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/backends/imgui_impl_glfw.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/backends/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/IMAC2/S2/ProgProj/build/p6/third-party/imgui",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/. -I/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/glfw/include -g -o CMakeFiles/ImGui.dir/backends/imgui_impl_opengl3.cpp.o -c /home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/backends/imgui_impl_opengl3.cpp",
+  "file": "/home/luciditay/Documents/IMAC2/S2/ProgProj/p6/third-party/imgui/backends/imgui_impl_opengl3.cpp"
+}
+]
