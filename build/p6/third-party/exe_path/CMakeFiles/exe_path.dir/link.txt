@@ -1,2 +1,0 @@
-/bin/x86_64-linux-gnu-ar qc libexe_path.a CMakeFiles/exe_path.dir/src/exe_path.cpp.o
-/bin/x86_64-linux-gnu-ranlib libexe_path.a

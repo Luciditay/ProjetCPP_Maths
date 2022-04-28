@@ -1,2 +1,0 @@
-/bin/x86_64-linux-gnu-ar qc libimg.a CMakeFiles/img.dir/src/Save.cpp.o CMakeFiles/img.dir/src/Load.cpp.o
-/bin/x86_64-linux-gnu-ranlib libimg.a

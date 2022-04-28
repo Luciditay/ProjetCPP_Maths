@@ -7,7 +7,7 @@ int main()
 {
     float stroke_weight = 0.01f;
     srand(time(NULL));
-    auto ctx   = p6::Context{{1280, 720, "Hello mabite"}};
+    auto ctx   = p6::Context{{1280, 720, "Hello world"}};
         std::vector<boid> Boids;
 
     for(int i = 0; i<80;i++){
